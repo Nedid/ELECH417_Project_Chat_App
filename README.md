@@ -3,7 +3,7 @@ Chat App Project for Communication Networks course
 
 Server-based chat app coded in python as project for Communication Networks course.
 Allows encrypted communication between users identifying through an account.
-Works only on local nework due to lack of free available central server (theorically would work on it)
+Works only on local nework due to lack of free available central server.
  
 Steps to run the project:
 
