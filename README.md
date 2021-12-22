@@ -22,6 +22,7 @@ You can download the different packages in the command window with the following
 If you have any trouble for the installation, you can consult these websites:
 
 https://www.python.org/downloads/
+
 https://packaging.python.org/en/latest/tutorials/installing-package
 
 - First, run the main file on the server folder. A window should appear.
