@@ -20,6 +20,7 @@ You can download the different packages in the command window with the following
 - On Windows: py -m pip install InsertPackageName
 
 If you have any trouble for the installation, you can consult these websites:
+
 https://www.python.org/downloads/
 https://packaging.python.org/en/latest/tutorials/installing-package
 
